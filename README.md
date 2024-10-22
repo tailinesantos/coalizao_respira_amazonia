@@ -1,4 +1,4 @@
-![Logo da coalizão](C:\Users\taili\OneDrive\Git_amazonia\coalizao_respira_amazonia)
+![Logo da coalizão](C:\Users\taili\OneDrive\Git_amazonia\coalizao_respira_amazonia\Logo_coalizão.jpeg)
 # Coalizão Respira Amazônia 
 Este repositório tem como objetivo principal centralizar técnicas utilizada nas redes de sensores de baixo custo nos estados da Amazônia legal brasileira e oferecer ferramentas para análise e correção de medições, visando melhorar a precisão dos sensores e padronização dos dados. O projeto foca em:
 <br>
